@@ -29,6 +29,9 @@
                             </userDefinedRuntimeAttribute>
                             <userDefinedRuntimeAttribute type="string" keyPath="styleURL__" value="mapbox://styles/t9er/cilyvyn6r000j9sm2cnsz3kbe"/>
                             <userDefinedRuntimeAttribute type="boolean" keyPath="showsUserLocation" value="YES"/>
+                            <userDefinedRuntimeAttribute type="boolean" keyPath="allowsZooming" value="YES"/>
+                            <userDefinedRuntimeAttribute type="boolean" keyPath="allowsScrolling" value="YES"/>
+                            <userDefinedRuntimeAttribute type="boolean" keyPath="allowsRotating" value="YES"/>
                         </userDefinedRuntimeAttributes>
                     </view>
                 </viewController>
